@@ -1,0 +1,1232 @@
+----------------------------------------------------------------
+Fri May 01 01:06:15 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:07:49 CAT 2020:
+Shutting down instance a816c00e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:07:50 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7e41c0d6-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:22:10 CAT 2020:
+Shutting down instance 7e41c0d6-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:22:12 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b849c196-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:24:41 CAT 2020:
+Shutting down instance b849c196-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:24:42 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 78a9425a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:25:18 CAT 2020:
+Shutting down instance 78a9425a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:25:19 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance fb71431a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:26:01 CAT 2020:
+Shutting down instance fb71431a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:26:02 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a23943da-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:26:14 CAT 2020:
+Shutting down instance a23943da-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:26:15 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6d01449a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:26:27 CAT 2020:
+Shutting down instance 6d01449a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:26:29 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5bc9455a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:26:30 CAT 2020:
+Shutting down instance 5bc9455a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:26:32 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6e91461a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:26:56 CAT 2020:
+Shutting down instance 6e91461a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:26:58 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a55946da-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:27:06 CAT 2020:
+Shutting down instance a55946da-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:27:07 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0021479a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:27:19 CAT 2020:
+Shutting down instance 0021479a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:27:20 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7ee9485a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:28:27 CAT 2020:
+Shutting down instance 7ee9485a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:28:28 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 21b1491a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:28:44 CAT 2020:
+Shutting down instance 21b1491a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:28:45 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3d6689dc-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:31:01 CAT 2020:
+Shutting down instance 3d6689dc-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:31:02 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2a5f4aea-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:31:15 CAT 2020:
+Shutting down instance 2a5f4aea-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:31:16 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 48274baa-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:31:57 CAT 2020:
+Shutting down instance 48274baa-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:31:58 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 89ef4c6a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 01:32:55 CAT 2020:
+Shutting down instance 89ef4c6a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 01:32:56 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance efb74d2a-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:28:31 CAT 2020:
+Shutting down instance efb74d2a-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:28:33 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 54f9cdeb-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:32:20 CAT 2020:
+Shutting down instance 54f9cdeb-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:32:21 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 02f1ceab-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:34:17 CAT 2020:
+Shutting down instance 02f1ceab-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:34:18 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d4e9cf6b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:35:03 CAT 2020:
+Shutting down instance d4e9cf6b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:35:04 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance cae1d02b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:35:33 CAT 2020:
+Shutting down instance cae1d02b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:35:34 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e4d9d0eb-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:36:46 CAT 2020:
+Shutting down instance e4d9d0eb-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:36:47 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 22d1d1ab-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:37:20 CAT 2020:
+Shutting down instance 22d1d1ab-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:37:21 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 84c9d26b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:37:30 CAT 2020:
+Shutting down instance 84c9d26b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:37:31 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0ac1d32b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:38:15 CAT 2020:
+Shutting down instance 0ac1d32b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:38:16 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b4b9d3eb-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:38:57 CAT 2020:
+Shutting down instance b4b9d3eb-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:38:59 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 82b1d4ab-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:39:41 CAT 2020:
+Shutting down instance 82b1d4ab-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:39:42 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 74a9d56b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:39:52 CAT 2020:
+Shutting down instance 74a9d56b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:39:53 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8aa1d62b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:40:45 CAT 2020:
+Shutting down instance 8aa1d62b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:40:46 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c499d6eb-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:42:55 CAT 2020:
+Shutting down instance c499d6eb-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:42:56 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2291d7ab-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:43:02 CAT 2020:
+Shutting down instance 2291d7ab-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:43:03 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a489d86b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:43:21 CAT 2020:
+Shutting down instance a489d86b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:43:22 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4a81d92b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:44:05 CAT 2020:
+Shutting down instance 4a81d92b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:44:06 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1479d9eb-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:44:37 CAT 2020:
+Shutting down instance 1479d9eb-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:44:38 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0271daab-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:44:50 CAT 2020:
+Shutting down instance 0271daab-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:44:52 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1469db6b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:46:04 CAT 2020:
+Shutting down instance 1469db6b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:46:05 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4a61dc2b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:46:05 CAT 2020:
+Shutting down instance 4a61dc2b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:46:23 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a459dceb-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 09:47:06 CAT 2020:
+Shutting down instance a459dceb-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 09:47:08 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2251ddab-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:00:42 CAT 2020:
+Shutting down instance 2251ddab-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:00:43 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c449de6b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:00:58 CAT 2020:
+Shutting down instance c449de6b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:00:59 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8a41df2b-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:01:23 CAT 2020:
+Shutting down instance 8a41df2b-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:01:24 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7439dfeb-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:01:32 CAT 2020:
+Shutting down instance 7439dfeb-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:01:33 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8231e0ab-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:12:09 CAT 2020:
+Shutting down instance 8231e0ab-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:12:10 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f1e361b7-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:12:29 CAT 2020:
+Shutting down instance f1e361b7-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:12:30 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 561b6277-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:12:46 CAT 2020:
+Shutting down instance 561b6277-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:12:47 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance de536337-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:19:19 CAT 2020:
+Shutting down instance de536337-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:19:20 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8a8b63f7-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:19:50 CAT 2020:
+Shutting down instance 8a8b63f7-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:19:51 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6b4ae513-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:20:03 CAT 2020:
+Shutting down instance 6b4ae513-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:20:04 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 70c2e5d3-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:20:23 CAT 2020:
+Shutting down instance 70c2e5d3-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:20:24 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9a3ae693-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:51:26 CAT 2020:
+Shutting down instance 9a3ae693-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:51:27 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d62a27b0-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:52:40 CAT 2020:
+Shutting down instance d62a27b0-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:52:41 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a088e8be-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:53:03 CAT 2020:
+Shutting down instance a088e8be-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:53:04 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5610e97e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:53:18 CAT 2020:
+Shutting down instance 5610e97e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:53:19 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2f98ea3e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:53:51 CAT 2020:
+Shutting down instance 2f98ea3e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:53:52 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2d20eafe-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:54:07 CAT 2020:
+Shutting down instance 2d20eafe-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:54:08 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4ea8ebbe-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:54:20 CAT 2020:
+Shutting down instance 4ea8ebbe-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:54:21 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9430ec7e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:56:12 CAT 2020:
+Shutting down instance 9430ec7e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:56:13 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance fdb8ed3e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 10:59:39 CAT 2020:
+Shutting down instance fdb8ed3e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 10:59:40 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8b40edfe-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:02:22 CAT 2020:
+Shutting down instance 8b40edfe-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:02:23 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3cc8eebe-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:02:56 CAT 2020:
+Shutting down instance 3cc8eebe-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:02:57 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1250ef7e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:03:07 CAT 2020:
+Shutting down instance 1250ef7e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:03:08 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0bd8f03e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:05:57 CAT 2020:
+Shutting down instance 0bd8f03e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:05:58 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2960f0fe-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:05:59 CAT 2020:
+Shutting down instance 2960f0fe-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:06:10 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6ae8f1be-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:06:10 CAT 2020:
+Shutting down instance 6ae8f1be-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:06:19 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d070f27e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:06:19 CAT 2020:
+Shutting down instance d070f27e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:06:31 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 59f8f33e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:06:32 CAT 2020:
+Shutting down instance 59f8f33e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:06:34 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0780f3fe-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:06:34 CAT 2020:
+Shutting down instance 0780f3fe-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:06:57 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d908f4be-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:06:57 CAT 2020:
+Shutting down instance d908f4be-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:07:44 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ce90f57e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:07:45 CAT 2020:
+Shutting down instance ce90f57e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:08:24 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e818f63e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:08:25 CAT 2020:
+Shutting down instance e818f63e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:09:10 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 25a0f6fe-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:09:10 CAT 2020:
+Shutting down instance 25a0f6fe-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:12:01 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8728f7be-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:12:31 CAT 2020:
+Shutting down instance 8728f7be-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:12:32 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0cb0f87e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:12:32 CAT 2020:
+Shutting down instance 0cb0f87e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:12:54 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b638f93e-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:12:54 CAT 2020:
+Shutting down instance b638f93e-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:12:58 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 83c0f9fe-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:12:58 CAT 2020:
+Shutting down instance 83c0f9fe-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+----------------------------------------------------------------
+Fri May 01 11:13:36 CAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7548fabe-0171-cd57-2ff0-00000460e990 
+on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Noel%20Mangwarira/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 01 11:13:36 CAT 2020:
+Shutting down instance 7548fabe-0171-cd57-2ff0-00000460e990 on database directory memory:C:\Users\Noel Mangwarira\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\ShortestPathService\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
