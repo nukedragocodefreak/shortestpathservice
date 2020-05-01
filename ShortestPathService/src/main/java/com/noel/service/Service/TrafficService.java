@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import com.noel.service.models.Traffic;
 import com.noel.service.repository.TrafficRepository;
 
+@Service
 public class TrafficService
 {    
 @Autowired    
